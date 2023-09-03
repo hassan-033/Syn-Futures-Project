@@ -1,0 +1,30 @@
+.nav-bg-color {
+    background-color: #0B0B2B;
+    height: 155px;
+}
+
+.btn-nav-left {
+    background-color: #0B0B2B;
+    border-radius: 20px;
+    border-color: #0DCED5;
+    color: #fff;
+    padding:10px 20px ;
+}
+
+.btn-nav-left:hover {
+    background-color: #0DCED5;
+    color: #000;
+}
+
+.btn-nav-right {
+    background-color: #0DCED5;
+    border-radius: 20px;
+    color: #000;
+    padding:10px 20px ;
+}
+
+.btn-nav-right:hover {
+    background-color: #0B0B2B;
+    border-color: #0DCED5;
+    color: #fff;
+}
